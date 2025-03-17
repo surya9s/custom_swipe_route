@@ -1,0 +1,21 @@
+name: custom_swipe_route
+description: A fully customizable iOS-style swipe-back page route with parallax effect and gesture support. Built for Flutter apps that need buttery-smooth custom transitions! 🚀
+version: 0.0.1
+homepage: https://github.com/your_username/custom_swipe_route
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+# Regular flutter package, no need for plugin section.
+# If you want to add assets or fonts later, you can do it here.
